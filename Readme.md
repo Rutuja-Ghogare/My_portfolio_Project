@@ -1,7 +1,7 @@
-WEB DESIGN AND USER EXPERIENCE: Assignment 2
+WEB DESIGN AND USER EXPERIENCE
 
 Name: Rutuja Ghogare
-NUID: 002924946
+
 
 My Portfolio website
 
